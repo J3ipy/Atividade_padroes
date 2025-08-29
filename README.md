@@ -77,11 +77,12 @@ O design do código foi guiado pelos cinco princípios SOLID:
 - **JDK 17** ou superior  
 - **Apache Maven**
 
-````markdown
 
 ### ▶️ Execução
 
-```bash
+````markdown
+
+``bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd biblioteca-agil
 mvn spring-boot:run
